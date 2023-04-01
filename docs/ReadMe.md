@@ -11,7 +11,6 @@ Consult the individual read me in the [Cookie Clicker++ subfolder](https://githu
 ### Rick Roller
 Consult the individual read me in the [Rick Roller subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/Rick%20Roller)
 Rick roll webgl is [here](jeffcaruso.github.io/css385-unityBasics/)
-[https://pisan385.github.io/unity/WebGLBuild/](https://pisan385.github.io/unity/WebGLBuild-RickRoll/)
 
 
 ### 2D Shoot
