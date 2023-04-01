@@ -12,7 +12,7 @@ Consult the individual read me in the [Cookie Clicker++ subfolder](https://githu
 Consult the individual read me in the [Rick Roller subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/Rick%20Roller) for more information.
 
 
-### 2D Shoot
+### [2D Shoot](https://jeffcaruso.github.io/css385-unity-2dshootgame/)
 Consult the individual read me in the [2D shoot subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/2d%20shoot)
 
 ### Friction Comparison Expanded
