@@ -4,12 +4,16 @@ Some Basic Projects with relatively small changes and improvments from the proje
 
 ## Projects and Changes
 ### Cookie Clicker++
-I added a button and text to change the 0 to a 100 to the side of the cookie.
+Consult the individual read me in the Cookie Clicker++ folder
 
-### Project #2
+### Rick Roller
+Consult the individual read me in the Rick Roller folder
 
 ### Project #3
+Consult the individual read me in the <project name> folder
 
 ### Project #4
+Consult the individual read me in the <project name> folder
 
 ### Project #5
+Consult the individual read me in the <project name> folder
