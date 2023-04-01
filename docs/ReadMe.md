@@ -15,7 +15,7 @@ Consult the individual read me in the [Rick Roller subfolder](https://github.com
 ### [2D Shoot](https://jeffcaruso.github.io/css385-unity-2dshootgame/)
 Consult the individual read me in the [2D shoot subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/2d%20shoot)
 
-### Friction Comparison Expanded
+### [Friction Comparison Expanded](https://jeffcaruso.github.io/css385-unity-FrictionComparisonExpanded/)
 Consult the individual read me in the [Friction Comparison Expanded subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/Friction%20Comparison%20Expanded)
 
 ### Bouyancy Pro
