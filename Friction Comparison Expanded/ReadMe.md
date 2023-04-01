@@ -1,4 +1,7 @@
 # Friction Comparison Expanded
+
+## Link to [play game](https://jeffcaruso.github.io/css385-unity-FrictionComparisonExpanded/)
+
 ## Source for Base Project
 https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/compare_friction_2d
 
