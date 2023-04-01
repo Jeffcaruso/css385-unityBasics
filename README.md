@@ -15,5 +15,5 @@ Consult the individual read me in the [2D shoot subfolder](https://github.com/Je
 ### Friction Comparison Expanded
 Consult the individual read me in the [Friction Comparison Expanded subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/Friction%20Comparison%20Expanded)
 
-### Project #5
-Consult the individual read me in the <project name> folder
+### Bouyancy Pro
+Consult the individual read me in the [Bouyancy Pro subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/Bouyancy%20Pro)
