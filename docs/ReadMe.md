@@ -8,9 +8,8 @@ Some Basic Projects with relatively small changes and improvments from the proje
 ### Cookie Clicker++
 Consult the individual read me in the [Cookie Clicker++ subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/Cookie%20Clicker%2B%2B)
 
-### Rick Roller
-Consult the individual read me in the [Rick Roller subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/Rick%20Roller)
-Rick roll webgl is [here](https://jeffcaruso.github.io/css385-unity-RickRoll/)
+### [Rick Roller](https://jeffcaruso.github.io/css385-unity-RickRoll/)
+Consult the individual read me in the [Rick Roller subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/Rick%20Roller) for more information.
 
 
 ### 2D Shoot
