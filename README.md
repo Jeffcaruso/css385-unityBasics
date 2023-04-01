@@ -4,16 +4,16 @@ Some Basic Projects with relatively small changes and improvments from the proje
 
 ## Projects and Changes
 ### Cookie Clicker++
-Consult the individual read me in the Cookie Clicker++ folder
+Consult the individual read me in the [Cookie Clicker++ subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/Cookie%20Clicker%2B%2B)
 
 ### Rick Roller
-Consult the individual read me in the Rick Roller folder
+Consult the individual read me in the [Rick Roller subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/Rick%20Roller)
 
-### Project #3
-Consult the individual read me in the <project name> folder
+### 2D Shoot
+Consult the individual read me in the [2D shoot subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/2d%20shoot)
 
-### Project #4
-Consult the individual read me in the <project name> folder
+### Friction Comparison Expanded
+Consult the individual read me in the [Friction Comparison Expanded subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/Friction%20Comparison%20Expanded)
 
 ### Project #5
 Consult the individual read me in the <project name> folder
