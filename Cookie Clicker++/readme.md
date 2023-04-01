@@ -1,5 +1,7 @@
 # Cookie Clicker++
 
+## Link to [play game](https://jeffcaruso.github.io/css385-unity-cookieclicker/)
+
 ## Source for Base Project
 https://github.com/t4guw/100-Unity-Mechanics-for-Programmers/tree/master/programs/cookie_clicker
 
