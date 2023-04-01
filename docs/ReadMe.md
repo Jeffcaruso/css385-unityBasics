@@ -5,7 +5,7 @@ Some Basic Projects with relatively small changes and improvments from the proje
 ## Link to [Project Website](https://jeffcaruso.github.io/css385-unityBasics/)
 
 ## Projects and Changes
-### Cookie Clicker++
+### [Cookie Clicker++](https://jeffcaruso.github.io/css385-unity-cookieclicker/)
 Consult the individual read me in the [Cookie Clicker++ subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/Cookie%20Clicker%2B%2B)
 
 ### [Rick Roller](https://jeffcaruso.github.io/css385-unity-RickRoll/)
