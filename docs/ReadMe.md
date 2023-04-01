@@ -7,11 +7,11 @@ Some Basic Projects with relatively small changes and improvments from the proje
 ## Projects and Changes
 ### [Cookie Clicker++](https://jeffcaruso.github.io/css385-unity-cookieclicker/)
 Consult the individual read me in the [Cookie Clicker++ subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/Cookie%20Clicker%2B%2B)
-![](https://github.com/Jeffcaruso/css385-unity-RickRoll/blob/main/screenshots/cookie%20screenshot.png)
+![Cookie game screenshot](https://github.com/Jeffcaruso/css385-unity-RickRoll/blob/main/screenshots/cookie%20screenshot.png)
 
 ### [Rick Roller](https://jeffcaruso.github.io/css385-unity-RickRoll/)
 Consult the individual read me in the [Rick Roller subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/Rick%20Roller) for more information.
-![Cookie game screenshot](https://github.com/Jeffcaruso/css385-unity-RickRoll/blob/main/screenshots/rick%20roll%20screenshot.PNG)
+![Rick Roller game screenshot](https://github.com/Jeffcaruso/css385-unity-RickRoll/blob/main/screenshots/rick%20roll%20screenshot.PNG)
 
 ### [2D Shoot](https://jeffcaruso.github.io/css385-unity-2dshootgame/)
 Consult the individual read me in the [2D shoot subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/2d%20shoot)
