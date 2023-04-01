@@ -11,7 +11,6 @@ Consult the individual read me in the [Cookie Clicker++ subfolder](https://githu
 ![Cookie game screenshot](https://raw.githubusercontent.com/Jeffcaruso/css385-unity-RickRoll/main/screenshots/cookie%20screenshot.png?token=GHSAT0AAAAAACAWMPTQLBQKO7BSUR575QZOZBIOU6Q)
 
 
-
 ### [Rick Roller](https://jeffcaruso.github.io/css385-unity-RickRoll/)
 Consult the individual read me in the [Rick Roller subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/Rick%20Roller) for more information and project code.
 #### Changes
@@ -22,17 +21,14 @@ I recognize, not actually a Rick Roll if you know it is happening beforehand, bu
 ![Rick Roller game screenshot](https://raw.githubusercontent.com/Jeffcaruso/css385-unity-RickRoll/main/screenshots/rick%20roll%20screenshot.PNG?token=GHSAT0AAAAAACAWMPTQ2O7YVR7HJFWQLDYKZBIOVRA)
 
 
-
 ### [2D Shoot](https://jeffcaruso.github.io/css385-unity-2dshootgame/)
 Consult the individual read me in the [2D shoot subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/2d%20shoot) for more information and project code.
 #### Changes
 - Increased shooting speed
 - Added a second shooting location
 - Added an object to the scene to shoot at.
-- 
+
 ![2D shoot game screenshot](https://raw.githubusercontent.com/Jeffcaruso/css385-unity-RickRoll/main/screenshots/2d%20shoot%20screenshot.png?token=GHSAT0AAAAAACAWMPTRJOTGB6EHC7DG3AWKZBIOXXA)
-
-
 
 
 ### [Friction Comparison Expanded](https://jeffcaruso.github.io/css385-unity-FrictionComparisonExpanded/)
@@ -41,8 +37,6 @@ Consult the individual read me in the [Friction Comparison Expanded subfolder](h
 - Added another row to the 'race track' of items being compared.
 - Create a new physics material with 0.99 (high) friction
 ![Friction Comparison Expanded game screenshot](https://raw.githubusercontent.com/Jeffcaruso/css385-unity-RickRoll/main/screenshots/friction%20screenshot.PNG?token=GHSAT0AAAAAACAWMPTQ3UDBTVTYWVEADPHKZBIOX7Q)
-
-
 
 
 ### [Bouyancy Pro](https://jeffcaruso.github.io/css385-unity-bouyancyPro/)
