@@ -4,7 +4,7 @@ Some Basic Projects with relatively small changes and improvments from the proje
 ## Link to [Project Website](https://jeffcaruso.github.io/css385-unityBasics/)
 
 ## Link to [Game screenshots](https://github.com/Jeffcaruso/css385-unity-RickRoll/tree/main/screenshots)
-- I couldn't get the images to reliably appear every time in the actual image. So review the link to the images or, see the [markdown rendeding in github](https://github.com/Jeffcaruso/css385-unityBasics/blob/main/docs/ReadMe.md)
+- I couldn't get the images to reliably appear every time in the actual image. So review the link to the images or, see the [markdown rendering in github](https://github.com/Jeffcaruso/css385-unityBasics/blob/main/docs/ReadMe.md) for the website look I was trying to build, and hasn't reliably appeared on gihub pages.
 
 ## Projects and Changes
 ### [Cookie Clicker++](https://jeffcaruso.github.io/css385-unity-cookieclicker/)
