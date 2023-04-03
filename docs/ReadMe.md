@@ -3,12 +3,15 @@ Some Basic Projects with relatively small changes and improvments from the proje
 
 ## Link to [Project Website](https://jeffcaruso.github.io/css385-unityBasics/)
 
+## Link to [Game screenshots](https://github.com/Jeffcaruso/css385-unity-RickRoll/tree/main/screenshots)
+- I couldn't get the images to reliably appear every time in the actual image. So review the link to the images or, see the [markdown rendeding in github](https://github.com/Jeffcaruso/css385-unityBasics/blob/main/docs/ReadMe.md)
+
 ## Projects and Changes
 ### [Cookie Clicker++](https://jeffcaruso.github.io/css385-unity-cookieclicker/)
 Consult the individual read me in the [Cookie Clicker++ subfolder](https://github.com/Jeffcaruso/css385-unityBasics/tree/main/Cookie%20Clicker%2B%2B) for more information and project code.
 #### Changes
 - I added a button and text to change the 0 to a 100 to the side of the cookie.
-![[Cookie game screenshot] (https://github.com/Jeffcaruso/css385-unity-RickRoll/blob/main/screenshots/cookie%20screenshot.png)](https://github.com/Jeffcaruso/css385-unity-RickRoll/blob/main/screenshots/cookie%20screenshot.png)
+![Cookie game screenshot](https://github.com/Jeffcaruso/css385-unity-RickRoll/blob/main/screenshots/cookie%20screenshot.png)
 
 
 ### [Rick Roller](https://jeffcaruso.github.io/css385-unity-RickRoll/)
